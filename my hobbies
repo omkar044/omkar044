@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>omkar's personal site</title>
+    </head>
+    <body>
+        <table cellspacing="20">
+            <tr>
+       <td><img src="kit.jfif"></td>
+       <td><h1>omkarkulkule</h1>
+        <p><em>founder and ceo of<strong><a href="http://www.appbrewery.co/">app brewery</a></strong></em></p>
+        <p>i am an ios developer
+             i love❤ tea and i playing cricket a lot
+        </p></td> 
+    </tr>
+        </table>
+       <hr>
+       <h2>Eduction and teaching</h2>
+       <ul>
+        <li>Recently studying UG</li>
+        <li>Learninig to Do something new</li>
+       </ul>
+       <hr>
+       <h3>work Experience</h3>
+       
+       <table cellspacing="20">
+            <thead>
+                <tr>
+                    <th>Dates</th>
+                    <th>work</th>
+                </tr>
+            </thead>
+            <tbody>
+        <tr>
+            <td>2010-2013</td>
+            <td>lead developer at Tempo App</td>
+        </tr>
+        <tr>
+            <td>2010-2012</td>
+            <td>Reasearcher at The Institute of Congitive Neuroscience</td>
+        </tr>
+    </tbody>
+       </table>
+       <hr>
+       <h3>skills</h3>
+       <table cellspacing="10">
+            <tr>
+                <td>playing cricket</td>
+                <td>⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td>flew up kites</td>
+                <td>⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td>photoghy</td>
+                <td>⭐⭐</td>
+            </tr>
+       </table>
+       <hr>
+       <a href="hobbies.html>">my hobbies></a>
+       <a href="contact.html>">my contact></a>
+
+    </body>
+</html>

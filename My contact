@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>My Contact</title>
+    </head>
+    <body>
+        <h1>My Contact Detail</h1>
+        <p>My Fictional Adress</p>
+        <p>9823838541</p>
+        <p>mymail@gmail.com</p>
+       <hr> 
+        <form class="" action="mailto:omkarkulkule@gmail.com" method="post" enctype="text/plain">
+            <label>Your Name:</label>
+            <input type="text" name="your name" value=""><br>
+
+            <label>your Email:</label>
+            <input type="email" name="your email" value=""><br>
+
+            <label>your Massage:</label><br>
+            <textarea name="your massage" rows="10" cols="30"></textarea><br>
+
+            <input type="submit" name="">
+        </form>
+    </body>
+</html>
